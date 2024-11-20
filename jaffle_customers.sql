@@ -1,1 +1,1 @@
-select * from raw.jaffle_shop.customers
+select * from CLMAP_DBT.jaffle_shop.customers
