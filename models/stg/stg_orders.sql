@@ -4,4 +4,4 @@ select
     order_date,
     status
 
-from raw.jaffle_shop.orders
+from CLMAP_DBT.jaffle_shop.orders
